@@ -1,6 +1,6 @@
 # YAML mirror
 
-A [labdex](https://github.com/reykimedev/labdex) plugin. Writes the whole inventory as YAML to a file after every change, optionally committing it to a git repository there.
+A [labdex](https://github.com/labdex-app/labdex) plugin. Writes the whole inventory as YAML to a file after every change, optionally committing it to a git repository there.
 
 **Version** 1.0 · **Works with** labdex >=1.3,<2 · **Plugin id** `yaml-mirror`
 
