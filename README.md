@@ -1,5 +1,7 @@
 # YAML mirror
 
+[![Release](https://github.com/labdex-app/labdex-plugin-yaml-mirror/actions/workflows/release.yml/badge.svg)](https://github.com/labdex-app/labdex-plugin-yaml-mirror/actions/workflows/release.yml) [![Buy Me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-bitsandbricks-7c3aed?logo=buymeacoffee&logoColor=white&labelColor=181b20)](https://buymeacoffee.com/bitsandbricks)
+
 A [labdex](https://github.com/labdex-app/labdex) plugin. Writes the whole inventory as YAML to a file after every change, optionally committing it to a git repository there.
 
 **Version** 1.0 · **Works with** labdex >=1.3,<2 · **Plugin id** `yaml-mirror`
